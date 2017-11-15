@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="app_bar_height">145dp</dimen>
+    <dimen name="fab_margin">50dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="music_layout_height">50dp</dimen>
+    <dimen name="music_layout_control_height">40dp</dimen>
+    <dimen name="music_layout_info_marginLeft">5dp</dimen>
+    <dimen name="music_layout_title_textSize">15sp</dimen>
+    <dimen name="music_layout_author_textSize">13sp</dimen>
+    <dimen name="music_layout_icon_marginLeft">5dp</dimen>
+    <dimen name="music_layout_next_btn_width">50dp</dimen>
+    <dimen name="music_layout_progress_height">2dp</dimen>
+    <dimen name="music_layout_icon_width">38dp</dimen>
+    <dimen name="music_layout_icon_height">38dp</dimen>
+    <dimen name="music_layout_loading_width">40dp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F51B5</color>
+    <color name="primaryDark">#303F9F</color>
+    <color name="accent">#FF4081</color>
+    <color name="green">#10d831</color>
+    <color name="purple">#7400e8</color>
+    <color name="black">#000000</color>
+	<color name="white">#FFFFFF</color>
+    <color name="lightWhite">#bbffffff</color>
+    <color name="lightAccent">#88FF4081</color>
+
+	<color name="progress_color">#d81e06</color>
+    <color name="secProgress_color">#ffe0e0e0</color>
+    <color name="solid_color">#4c000000</color>
+	<color name="transparent">#ccffffff</color>
+</resources>

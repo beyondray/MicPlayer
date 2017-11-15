@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/play_cycle"
+            android:icon="@drawable/cycle_list"
+            android:title="列表循环" />
+        <item
+            android:id="@+id/play_random"
+            android:icon="@drawable/cycle_random"
+            android:title="随机播放" />
+        <item
+            android:id="@+id/play_loop"
+            android:icon="@drawable/cycle_single"
+            android:title="单曲循环" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
