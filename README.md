@@ -1,6 +1,8 @@
 MicPlayer 
 =================
-
+<style>
+    div { float : left}
+</style>
 <1>. Search & PlayList
 -----------------
 <div><img width="400" height="711" src="/ScreenShots/search.jpg"/></div>
